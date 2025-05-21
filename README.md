@@ -1,11 +1,16 @@
-<h1 align="center">Hey, I'm Rishi 😁<h1> 
-<h3>Web Developer ∞ Machine Learning Enthusiast</h3>
+<h1 align="center">Hey, I'm Rishi 😁</h1>
+<h3 align="center">Web Developer ∞ Machine Learning Enthusiast</h3> <br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p>I'm a web developer who loves creating responsive, full-stack applications. I'm currently working on several projects to learn and explore real-world implementation of the MERN stack (MongoDB, Express, React, Node.js).
+  <br>
+  <b>🛠️ Tech I work with:</b>
+  <br>
+  JavaScript, React, Node.js, Express, MongoDB, HTML/CSS
+  <br><br>
+  Let’s connect and build something cool!
+</p>
 
-<p>I'm a web developer who loves creating responsive, full-stack applications. I'm currently working on several projects to learn and explore real-world implementation of the MERN stack (MongoDB, Express, React, Node.js).<br><br><h2>🛠️ Tech I work with:</h2><br>JavaScript, React, Node.js, Express, MongoDB, HTML/CSS<br><br>Let’s connect and build something cool!</p>
-
-
+<br>
 <h2> 💻 Tech Stack: <h2>
   
 - Frontend
@@ -38,10 +43,13 @@
 
 
 # 📊 GitHub Stats:
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=DragonFruitCookie&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DragonFruitCookie&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonFruitCookie&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+  
+</div>
 
 
 
