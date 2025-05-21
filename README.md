@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Rishi 😁</h1>
-<h3 align="center">Web Developer ∞ Machine Learning Enthusiast</h3> <br>
+<h3 align="center"> Web Developer ∞ Machine Learning Enthusiast </h3> <br>
 
 <p>I'm a web developer who loves creating responsive, full-stack applications. I'm currently working on several projects to learn and explore real-world implementation of the MERN stack (MongoDB, Express, React, Node.js).
   <br>
@@ -11,7 +11,7 @@
 </p>
 
 <br>
-<h2> 💻 Tech Stack: <h2>
+<h2> 💻 Tech Stack: </h2>
   
 - Frontend
 <p align="left">
@@ -41,13 +41,12 @@
   </a>
 </p>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h2>📊 GitHub Stats: </h2>
 
-# 📊 GitHub Stats:
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=DragonFruitCookie&theme=tokyonight_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DragonFruitCookie&theme=dark&hide_border=false)<br/>
-  
+<img src="https://github-readme-stats.vercel.app/api?username=DragonFruitCookie"/><br />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DragonFruitCookie&theme=tokyonight" />
 </div>
 
 
