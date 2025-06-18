@@ -42,12 +42,11 @@
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h2>📊 GitHub Stats: </h2>
-
+<!--- <h2>📊 GitHub Stats: </h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=DragonFruitCookie"/><br />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DragonFruitCookie&theme=tokyonight" />
-</div>
+</div> --->
 
 
 
