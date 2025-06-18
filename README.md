@@ -57,3 +57,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/DragonFruitCookie/DragonFruitCookie/output/github-snake.svg" />
 </picture>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
