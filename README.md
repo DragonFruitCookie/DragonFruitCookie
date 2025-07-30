@@ -5,7 +5,7 @@
   <br>
   <b>🛠️ Tech I work with:</b>
   <br>
-  JavaScript, React, Node.js, Express, MongoDB, HTML/CSS
+  JavaScript, React, Next.js, Node.js, Express, PostgreSQL, HTML/CSS
   <br><br>
   Let’s connect and build something cool!
 </p>
