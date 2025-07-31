@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Rishi 😁</h1>
+<h1 align="center">Hey, I'm Revathi</h1>
 <h3 align="center"> Web Developer ∞ Machine Learning Enthusiast </h3> <br>
 
 <p>I'm a web developer who loves creating responsive, full-stack applications. I'm currently working on several projects to learn and explore real-world implementation of the MERN stack (MongoDB, Express, React, Node.js).
