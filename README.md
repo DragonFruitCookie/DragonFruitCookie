@@ -47,14 +47,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=DragonFruitCookie"/><br />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DragonFruitCookie&theme=tokyonight" />
 </div> --->
-
-
-
-
-<picture>
+<!--- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DragonFruitCookie/DragonFruitCookie/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DragonFruitCookie/DragonFruitCookie/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/DragonFruitCookie/DragonFruitCookie/output/github-snake.svg" />
-</picture>
-
+</picture> --->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
